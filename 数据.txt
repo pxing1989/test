@@ -1,1 +1,2 @@
 https://jimmysong.io/kubernetes-handbook/concepts/init-containers.html
+https://www.leiphone.com/news/201802/Uxu5yigA1gE4bata.html
