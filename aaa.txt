@@ -1,1 +1,4 @@
 https://www.cnblogs.com/gouge/p/7089939.html
+1、ArrayList、linkedlist、hashmap、hashtable、ConcurrentHashMap的数据结构
+2、线程池的关键性参数corePoolSize、maximumPoolSize、keepAliveTime、workQueue、ThreadFactory、RejectedExecutionHandler
+3、tomcat部署web项目的几种方式
